@@ -3,7 +3,7 @@ from PIL import Image
 
 def main():
     # Carregando a imagem de plano de fundo
-    background_image = Image.open("project2.png")  # Substitua pelo caminho real da sua imagem
+    background_image = Image.open("project2jpeg.png")  # Substitua pelo caminho real da sua imagem
 
     # Configurando a imagem como plano de fundo
     st.markdown(
